@@ -1,0 +1,60 @@
+[options]
+allow_bold 		= true
+browser 		= chromium
+clickable_url	 	= true
+cursor_blink 		= system
+cursor_shape 		= block
+dynamic_title 		= true
+#font 			= Ohsnap 10
+font 			= ubuntu 9
+geometry 		= 560x280
+highlight 		= #2f2f2f
+mouse_autohide 		= true
+scrollback_lines 	= 10000
+resize_grip		= true
+word_chars 		= -A-Za-z0-9,./?%&#:_=+@~
+
+
+#rgba(23, 19, 17, 0.9)
+
+[colors]
+
+# special
+foreground      = #777777
+foreground_bold = #fdfdfd
+cursor          = #d64937
+background      = #111313
+
+# black
+color0  = #2d2d2d
+color8  = #222222
+
+# red
+color1  = #3d3d3d
+color9  = #363636
+
+# green
+color2  = #d64937
+color10 = #a3382a
+
+# yellow
+color3  = #535353
+color11 = #3d3d3d
+
+# blue
+color4  = #8b8b8b
+color12 = #646464
+
+# magenta
+color5  = #c3c3c3
+color13 = #9a9a9a
+
+# cyan
+color6  = #d64937
+color14 = #a3382a
+
+# white
+color7  = #dcdcdc
+color15 = #c5c5c5
+
+# vim: ft=dosini cms=#%s
